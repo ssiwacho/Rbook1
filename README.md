@@ -4,6 +4,8 @@ Repository นี้บันทึกชุดคำสั่งรวมทั
 
 **ผู้ที่สนใจสั่งซื้อหนังสือในรูปแบบ ebook ได้จาก application "CU-ebook store" ราคาเล่มละ 279 บาท** 
 
+![](/Users/siwachoat/Desktop/book/Screen Shot 2564-06-04 at 10.44.15.png)
+
 อ่านหนังสือแล้วมีข้อสงสัยหรือต้องการแลกเปลี่ยนความรู้เกี่ยวกับการใช้โปรแกรม R สำหรับงานทางด้านสถิติและวิทยาการข้อมูลทางการศึกษา สามารถเข้าสู่ community ได้ทาง ---> https://join.slack.com/t/educationalst-kjd3061/shared_invite/zt-ra19xtjo-niOE35ZmQATUmtUeW6DjOA
 
 ---
